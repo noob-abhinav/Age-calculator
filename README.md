@@ -1,6 +1,6 @@
 **Creating a Year Calculator App with HTML, CSS, and JavaScript**
 
-<img width="1680" alt="Screenshot 2023-08-08 at 12 20 53 PM" src="https://github.com/developerrahulofficial/Age-calculator/demo.png">
+<img width="1680" alt="Screenshot 2023-08-08 at 12 20 53 PM" src="https://github.com/noob-abhinav/Age-calculator/demo.png.jpg">
 
 
 Are you curious to know exactly how many years, months, days, hours, and minutes you've been alive? Look no further than the Year Calculator App! In this tutorial, we'll walk you through building a stylish and functional web application that calculates your age based on the birthdate you provide. Let's dive in!
